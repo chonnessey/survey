@@ -5,4 +5,5 @@ body {
 .card {
   width: 30%;
   height: auto;
+  display: none;
 }
