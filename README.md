@@ -2,7 +2,7 @@
 
 #### _This project shows my understanding of basic JavaScript._
 
-## _Here is a link to my website via github pages! https://chonnessey.github.io/portfolio-landing-page/_
+## _Here is a link to my website via github pages! https://chonnessey.github.io/survey/_
 
 #### By _**Adrian Camacho**_
 
