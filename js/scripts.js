@@ -13,10 +13,12 @@ $(document).ready(function() {
       result = "#swift"
     } else if(age > 10 && denzel === "training") {
       result = "#js"
-    } else if(shoes === "crocs" && anime === "dbz") {
+    } else if(age >= 30 && shoes === "crocs" && anime === "dbz") {
       result = "#c"
     } else if(age >= 21 && tp === "cottenelle") {
       result = "#ruby"
+    } else {
+      result = "#no-match"
     }
 
     $(".hide-me").hide();
@@ -24,5 +26,6 @@ $(document).ready(function() {
     $(result).show("#js");
     $(result).show("#c");
     $(result).show("#ruby");
+    $(result).show("#no-match");
   })
 })
