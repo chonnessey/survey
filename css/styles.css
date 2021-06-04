@@ -21,4 +21,19 @@ h1 {
 
 .form-group {
   text-align: center;
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+#no-match {
+  display: none;
+  text-align: center;
+  font-size: 50px;
+  color: red;
+  padding-top: 30px;
+}
+
+img {
+  width: 50%;
+  height: auto;
 }
