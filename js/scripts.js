@@ -9,7 +9,7 @@ $(document).ready(function() {
     const tp = $("#tp").val();
     let result;
 
-    if(age > 1 && disney === "wall-e" ) {
+    if(age > 1 && disney === "wall-e") {
       result = "#swift"
     } else if(age > 10 && denzel === "training") {
       result = "#js"
