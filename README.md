@@ -22,7 +22,7 @@ _This application takes in user input via a survey and matches them with a progr
 ## Setup/Installation Requirements :triangular_ruler:
 
 * Clone this repo: `git clone https://github.com/chonnessey/survey.git`
-* Enter new directory `cd portfolio-landing-page`
+* Navigate to directory `cd survey`
 * Open file into a text editor of your choosing and work on it freely!
 
 
