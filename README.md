@@ -23,7 +23,9 @@ _This application takes in user input via a survey and matches them with a progr
 
 * Clone this repo: `git clone https://github.com/chonnessey/survey.git`
 * Navigate to directory `cd survey`
-* Open file into a text editor of your choosing and work on it freely!
+* Open file into a text editor of your choosing.
+* Open `index.html` in your browser.
+* Answer the prompted questions in the application to see your results!
 
 
 ## Known Bugs :bug:
