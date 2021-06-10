@@ -22,10 +22,6 @@ $(document).ready(function() {
     }
 
     $(".hide-me").hide();
-    $(result).show("#swift");
-    $(result).show("#js");
-    $(result).show("#c");
-    $(result).show("#ruby");
-    $(result).show("#no-match");
+    $(result).show(result);
   })
 })
